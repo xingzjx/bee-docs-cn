@@ -46,3 +46,4 @@ Don't forget to find and replace the version number for the whole of the docs fo
 3. Generate the `index.html` file for the Debug API via: `npx redoc-cli bundle SwarmDebug.yaml -o ./SwarmDebugAPIRedoc/index.html --disableGoogleFont --options.expandDefaultServerVariables "true"`
 4. Put the generated files into appropriate subfolders (`static/api/` and `static/debug-api/`)
 5. Rebuild and redeploy docs.
+6. test
