@@ -1,12 +1,14 @@
 ---
 id: introduction
-title: Welcome!
+title: 欢迎!
 slug: /
 ---
 
-Hello and welcome to the swarm! We are very happy to have you here with us! 🐝 
+您好，欢迎来到swarm! 非常高兴来到这里和我们一起! 🐝 
 
-As soon as your Bee client is up and running you will begin to connect with peers all over the world to become a part of Swarm, a global p2p network tasked with storing and distributing all of the world's data.
+只要你的bee客户端启动并且运行中，你将会连接到全世界的节点并且成为swarm的一部分，一个可以存储和分发全世界数据内容的完全的p2p网络系统。
+
+Swarm是一个去中心化的数据存储和分布式技术，准备下一代抗审查、不停止无服务应用。
 
 Swarm is a decentralised data storage and distribution technology, ready to power the next generation of censorship resistant, unstoppable serverless apps.
 
